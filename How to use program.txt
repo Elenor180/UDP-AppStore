@@ -1,0 +1,26 @@
+How to use program
+
+1. Enter your name and surname then click add customer
+
+2. choose which item you want to purchase by selecting between the two spin boxes
+
+3. Click add item
+
+4. To record and proceed with your transaction click record transaction and you will see a tree in the drop down space below. Observe and confirm that the tree contains your transaction record
+
+5. To record your transaction data as XML click broadcast on the above section, make sure that store receiver is open and running on the same machine as store app
+
+6. The store receiver will already be listening in a network configured for the store app broadcast
+
+7. Confirm that you see your data broadcasted in XML
+
+
+
+for more help click help and it will display instructions within the store app
+
+
+
+Created by: 10358994 
+
+Property of University of South Africa
+
