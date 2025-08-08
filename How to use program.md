@@ -1,4 +1,4 @@
-How to use program
+### How to use program
 
 1. Enter your name and surname then click add customer
 
