@@ -2,6 +2,7 @@
 
 UPD AppStore is a Qt-based desktop application designed for managing customer purchases and broadcasting transaction data over a local network in XML format.  
 It includes integrated transaction tracking, a store receiver for real-time data monitoring, and an in-app help system.
+Demonstrating Cloud Computing practices
 
 ## Features
 - Add new customers with name and surname.
